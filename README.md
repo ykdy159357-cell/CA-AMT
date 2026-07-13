@@ -42,24 +42,10 @@ This design preserves the clinical main line of the manuscript: clinical variabl
 |-- environment.yml
 |-- LICENSE
 |-- CITATION.cff
-|-- clinical_only_lasso_xgboost_pycharm.py
-|-- cv_train_patient_oof_camt_mlp_v1.py
-|-- cv_train_patient_oof_concat_clinical.py
-|-- external_validate_camt_mlp_v1.py
-|-- make_camt_patient_explanation_cards.py
-|-- make_camt_modality_ablation_and_token_attention_probability_shift_validation.py
-|-- plot_figure2_table2_sci_5models_v4.py
-|-- plot_figure3_external_main_and_table3_v4.py
-|-- scr/
-|   |-- datasets/
 |   |-- models/
-|   |-- train/
-|   |-- explain/
-|   `-- utils/
-|-- training/
-|-- evaluation/
-|-- networks/
-|-- interpretability/
+|   |-- training/
+|   |-- evaluation/
+|   |-- interpretability/
 `-- docs/
 ```
 
