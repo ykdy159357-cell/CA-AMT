@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this repository."
+title: "Clinical-aware adaptive multimodal Transformer for patient-level detection of coronary artery disease using clinical variables, tongue images, and bilateral palm images"
+version: "1.0.0"
+doi: "10.0000/ca-amt-placeholder"
+date-released: "2026-07-13"
+url: "https://github.com/ykdy159357-cell/CA-AMT"
+authors:
+  - name: "CA-AMT Study Group"
+preferred-citation:
+  type: article
+  title: "Clinical-aware adaptive multimodal Transformer for patient-level detection of coronary artery disease using clinical variables, tongue images, and bilateral palm images"
+  authors:
+    - name: "CA-AMT Study Group"
+  journal: "Artificial Intelligence in Medicine"
+  year: 2026
+  doi: "10.0000/ca-amt-placeholder"
+
