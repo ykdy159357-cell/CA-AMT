@@ -2,7 +2,7 @@
 
 Official research code for:
 
-**Clinical-aware adaptive multimodal Transformer for patient-level detection of coronary artery disease using clinical variables, tongue images, and bilateral palm images**
+**Clinical-Aware Multimodal Transformer for Patient-Level Identification of Severe Angiographic Coronary Stenosis Using Clinical Variables, Tongue Images, and Bilateral Palm Images**
 
 ## Project Overview
 
